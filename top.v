@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Rhodel Quizon
 // 
 // Create Date: 21.04.2023 11:09:20
 // Design Name: 
