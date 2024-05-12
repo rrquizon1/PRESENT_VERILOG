@@ -1,5 +1,5 @@
 PRESENT_VERILOG
-Implementation of PRESENT KEY algorithm in verilog submitted as requirements for EE 227
+Implementation of PRESENT KEY algorithm in verilog submitted as requirements for EE 227 of Master of Engineering of Electrical Engineering program from University of the Philippines Diliman.
 
 This project follows the following state machine for the encryption process. It follows the original process of the PRESENT paper. See below:
 ![image](https://github.com/rrquizon1/PRESENT_VERILOG/assets/70574862/a1561c93-2a49-44b9-9ff3-be47665c12cb)
